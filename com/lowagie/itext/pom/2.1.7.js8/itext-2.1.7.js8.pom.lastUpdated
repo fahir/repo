@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jul 14 11:53:02 GMT 2021
-http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/.lastUpdated=1621877328668
-https\://repo.maven.apache.org/maven2/.lastUpdated=1626263582273
-http\://0.0.0.0/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js8 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [jaspersoft-third-party (http\://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/, default, releases+snapshots), jr-ce-releases (http\://jaspersoft.jfrog.io/jaspersoft/jr-ce-releases, default, releases+snapshots)]
-@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1626263582276
-https\://storage.googleapis.com/idenfit_repo/.error=
-https\://repo.maven.apache.org/maven2/.error=
-https\://storage.googleapis.com/idenfit_repo/.lastUpdated=1626263582211
